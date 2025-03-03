@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Base aplication theme -->
+   <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+       <!--custonize your theme here-->
+       <item name="colorPrimary">@color/design_default_color_primary</item>
+       <item name="colorPrimaryDark">@color/design_default_color_primary_dark</item>
+       <item name="colorAccent">@color/design_default_color_error</item>
+   </style>
+    <!--creamos un style para el splash, que hereda de AppTheme-->
+    <style name="SplashTheme" parent="AppTheme">
+        <!--creamos nuevo item para el color del background que acabamos de crear-->
+        <item name="android:windowBackground">@drawable/splash</item>
+
+    </style>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyLoginScreen</string>
+    <string name="textPersonName">Email</string>
+    <string name="textPassword">Password</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="btnRegister">REGISTER</string>
+    <string name="viewImage">program</string>
+    <string name="btnGoogle">Google</string>
+    <string name="btnFacebook">Facebook</string>
+    <string name="btnLinkedin">Linkedin</string>
+
+
+</resources>
