@@ -1,0 +1,1 @@
+"Aplicación móvil nativa para Android desarrollada en Java. El proyecto se centra en la implementación de un flujo de autenticación seguro, gestionando el ciclo de vida de las vistas (Activities/Fragments) de Android. Incluye validación de datos de entrada en el cliente, diseño de interfaz de usuario (UI) responsiva y gestión de credenciales."
